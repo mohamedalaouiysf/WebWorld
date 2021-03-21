@@ -1,0 +1,160 @@
+body{
+    color: white;
+    margin: 0%;
+}
+.centralise{
+    width: 70%;
+    margin-left:auto ;
+    margin-right: auto;
+}
+.mainheader{
+    background-color: #252323;
+    font-family:'Pacifico', cursive; ;
+    height: 10vh;
+    width: 100%;
+    padding-top: 15px;
+}
+.mainheader i{
+    float: right;
+    margin-right: 15px; 
+    color: lightgrey;
+    font-size: xx-large;
+}
+.mainheader h5{
+    width: 25%;
+    margin: 0%;
+    font-size: 24px;
+    display: inline-block;
+}
+.mainheader span{
+    color: #00bac6;
+}
+.menu{
+    background-color: white;
+    text-transform:uppercase;
+    border-bottom: 3px solid #f0f0f0;
+}
+.navbar{
+    background-color: none;
+    padding: 10px 0 0 0;
+}
+.form-control{
+    border: none;
+}
+.form-inline{
+    padding-right: 10px;
+    margin-bottom: 10px  !important;
+    border: 1px solid lightgray;
+}
+a.nav-link{
+    padding-bottom: 10px;
+}
+a.nav-link:hover {
+    color: #00bac6 !important; 
+    border-bottom: 2px solid #00bac6;
+}
+.banner{
+    height: 500px;
+}
+.carousel-caption{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10%;
+}
+.carousel-caption h5{
+    font-size: 40px;
+}
+.carousel-caption p{
+    font-size: 15px;
+    font-family: 'PT Sans', sans-serif;
+}
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    border: 2px solid white;
+    background-color: rgba(0, 0, 0, 0);
+}
+.carousel-indicators  .active{
+    background-color: #00bac6 !important ;
+}
+section{
+    margin-top: 30px;
+}
+section h4{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+}
+section p{
+    font-size: 15px;
+    color: #9a9a9a;
+    text-align: center;
+    padding-bottom: 50px;
+}
+ .svg1{
+    width: 100px;
+    height: 100px;
+    color: #cacaca;
+    margin-left:30%;
+}
+.row svg:hover{
+    color: #00bac6;
+    margin-top: 50px;
+    overflow: hidden;
+}
+.sec2 .col-4{
+    margin-bottom: 15px;
+    border-radius: none;
+}
+.sec2{
+    background-color: #eeeeee;
+    padding-top: 30px;
+    text-align: left !important;
+}
+.sec2 .col-4 p{
+    padding-bottom: 0%;
+}
+.sec2 .col-4 h5{
+    color: #9a9a9a;
+}
+.logo{
+    margin-top: 15px;
+}
+.iclogo{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    width: 80px;
+}
+#small{
+    margin-top: 25px;
+}
+.social{
+    background-color: #4a5150;
+    font-size: 14px;
+    padding-top: 20px;
+    color: #c0c0c0;
+}
+.social strong{
+    color: #f5f5f5;
+    font-size: 20px;
+    font-weight: 100;
+}
+.social svg{
+    color:  #00bac6;
+}
+.border{
+    border: none !important;
+    border-bottom:1px solid #5c5c5c !important;
+    margin-bottom: 10px;
+    
+}
+#btns{
+    background: none;
+    border: none;
+}
+
+
